@@ -1,2 +1,2 @@
 # MLPractice
-practice of "Machine Learning in Action"
+practice of "Machine Learning in Action" with python3

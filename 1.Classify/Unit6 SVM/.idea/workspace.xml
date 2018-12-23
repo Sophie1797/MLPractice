@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb723cf-5aed-4721-99d4-bcbc6781244b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Unit5 Logistic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Unit5 Logistic/logRegres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2 kNN/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2 kNN/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit2 kNN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit2 kNN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3 Decision Tree/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3 Decision Tree/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit3 Decision Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit3 Decision Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4 Bayes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4 Bayes/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit4 Bayes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit4 Bayes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit5 Logistic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit5 Logistic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit5 Logistic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit5 Logistic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Other Tools/Unit13 PCA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Other Tools/Unit13 PCA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +53,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-500093343">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -53,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/SVM.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <marker date="1545053370818" expanded="true" signature="62:67" ph="..." />
@@ -66,7 +82,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,12 +104,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Unit13 PCA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../4.Other Tools/Unit13 PCA" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,11 +162,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SVM.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1545053370818" expanded="true" signature="62:67" ph="..." />
